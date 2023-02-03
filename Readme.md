@@ -16,7 +16,7 @@ Quickstart guide for those already familiar with Ansible:
 ### 1. Obtain the playbook
 ```shell
 git clone https://github.com/Wordpress-Ansible/Wordpress-Ansible.git
-cd ansible-wordpress
+cd Wordpress-Ansible
 ```
 ### 2. Customize Options
 ```shell
