@@ -15,7 +15,7 @@ This playbook will install a WordPress website on top of a LAMP environment (**L
 Quickstart guide for those already familiar with Ansible:
 ### 1. Obtain the playbook
 ```shell
-git clone https://gitlab.com/Wordpress-Ansible/Wordpress-Ansible.git
+git clone https://github.com/Wordpress-Ansible/Wordpress-Ansible.git
 cd ansible-wordpress
 ```
 ### 2. Customize Options
