@@ -1,0 +1,14 @@
+---
+#System Settings
+php_modules: [ 'php-curl', 'php-gd', 'php-mbstring', 'php-xml', 'php-xmlrpc', 'php-soap', 'php-intl', 'php-zip', 'php-fpm' ]
+
+#MySQL Settings
+mysql_root_password: "mysql_root_password"
+mysql_db: "joji"
+mysql_user: "user"
+mysql_password: "password"
+
+#HTTP Settings
+http_host: "your_domain"
+http_conf: "your_domain.conf"
+http_port: "80"
